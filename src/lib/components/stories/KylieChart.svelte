@@ -1,20 +1,25 @@
+<!--
+  Copy this file into the stories/ folder, rename it (e.g. JaneStory.svelte),
+  then import your new component in Blog.svelte.
+-->
+
 <article class="story-card">
 	<hr class="divider" />
 
-	<h2 class="headline">TKTK</h2>
+	<h2 class="headline">Your headline here</h2>
+	<p class="byline">By Your Name</p>
 
-	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+	<p>Your first paragraph goes here.</p>
+	<p>Your second paragraph goes here.</p>
 
 	<figure class="chart">
-		<figcaption class="chart-title">TKTK</figcaption>
+		<figcaption class="chart-title">Chart title</figcaption>
 
 		<div class="chart-workspace">
 			<p class="chart-placeholder">Your chart goes here</p>
 		</div>
 
-		<figcaption class="chart-footer">
-			Source: TKTK; Credit: TKTK
-		</figcaption>
+		<figcaption class="chart-footer">Chart source or caption</figcaption>
 	</figure>
 </article>
 
