@@ -1,8 +1,6 @@
 <script>
 	import ExampleStory from './stories/ExampleStory.svelte';
-
-	// Copy _StoryCardTemplate.svelte into stories/, rename it, then import here:
-	// import YourNameStory from './stories/YourNameStory.svelte';
+	import SeulgiStorycard from './Seulgi_storycard.svelte';
 </script>
 
 <main class="blog">
@@ -13,7 +11,7 @@
 		</header>
 
 		<ExampleStory />
-		<!-- <YourNameStory /> -->
+		<SeulgiStorycard />
 	</div>
 </main>
 
