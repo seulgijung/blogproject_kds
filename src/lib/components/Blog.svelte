@@ -13,7 +13,7 @@
 		</header>
 
 		<ExampleStory />
-		<!-- <YourNameStory /> -->
+		<!-- <DimuthuStory /> -->
 	</div>
 </main>
 
