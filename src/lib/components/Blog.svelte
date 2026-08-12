@@ -1,6 +1,6 @@
 <script>
 	import ExampleStory from './stories/ExampleStory.svelte';
-	import SeulgiStorycard from './Seulgi_storycard.svelte';
+	import SeulgiStorycard from './stories/Seulgi_storycard.svelte';
 </script>
 
 <main class="blog">
