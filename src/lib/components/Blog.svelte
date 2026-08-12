@@ -1,6 +1,9 @@
 <script>
 	import ExampleStory from './stories/ExampleStory.svelte';
 	import SeulgiStorycard from './stories/Seulgi_storycard.svelte';
+	import KylieChart from './stories/KylieChart.svelte';
+	// Copy _StoryCardTemplate.svelte into stories/, rename it, then import here:
+	// import YourNameStory from './stories/YourNameStory.svelte';
 </script>
 
 <main class="blog">
