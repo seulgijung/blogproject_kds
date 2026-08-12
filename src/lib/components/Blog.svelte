@@ -1,5 +1,4 @@
 <script>
-	import ExampleStory from './stories/ExampleStory.svelte';
 	import SeulgiStorycard from './stories/Seulgi_storycard.svelte';
 	import KylieChart from './stories/KylieChart.svelte';
 	// Copy _StoryCardTemplate.svelte into stories/, rename it, then import here:
@@ -13,8 +12,8 @@
 			<p class="blog-date">Published June 10, 2026</p>
 		</header>
 
-		<ExampleStory />
 		<SeulgiStorycard />
+		<KylieChart />
 	</div>
 </main>
 
